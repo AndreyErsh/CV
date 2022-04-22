@@ -1,0 +1,19 @@
+body {
+ background-color: azure;
+ 
+}
+.avatar {
+ width: 200px; 
+ border-radius: 50%;  
+ box-shadow: 6px 6px 16px rgba(rgb(27, 26, 26), rgb(18, 19, 18), rgb(0, 0, 0), alpha);
+}
+.info p {
+    color: rgb(255, 127, 127);
+}
+.xob {
+   background: green;
+   padding: 15px 40px; 
+   border: 5px solid mediumaquamarine;
+   margin: 20px;
+
+}
